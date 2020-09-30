@@ -1,8 +1,8 @@
 # Aliya Summers
 
-Seattle, Wa.
-(512) 810-0426
-aliyasummers1@gmail.com
+Seattle, Wa.  
+(512) 810-0426  
+<aliyasummers1@gmail.com>
 <http://linkedin.com/in/aliya-summers>
 <http://github.com/arsummers>
 
@@ -16,7 +16,7 @@ Full stack Python developer with a background in sales, marketing and  engineeri
 Used Anki Vector’s SDK to teach a Vector robot to solve mazes
 
 <http://vector-and-the-minotaur.herokuapp.com/> 
-- Note: Deployed on Heroku - may take a moment to load
+Note: Deployed on Heroku - may take a moment to load  
 [Link to code](https://github.com/Vector-and-the-Minotaur)
 - Contributed to movement functions, navigation, front-end styling and markup
 - Python, React
@@ -25,8 +25,8 @@ Used Anki Vector’s SDK to teach a Vector robot to solve mazes
 
 Magazine cutout-style ransom note generator
 
-<https://spoopy-notes.firebaseapp.com>
-- Note: Deployed on Heroku - may take a moment to load
+<https://spoopy-notes.firebaseapp.com>  
+Note: Deployed on Heroku - may take a moment to load  
 [Link to code](https://github.com/SpooPy-Notes-Org)
 - Styled and designed front end, tag-teamed letter-picking algorithm
 - Python, React
@@ -35,8 +35,8 @@ Magazine cutout-style ransom note generator
 
 Asteroid tracking app with size comparisons
 
-<http://www.astroparanoid.com/>
-[Link to code](https://github.com/astro-paranoid/astroparanoid.com)
+<http://www.astroparanoid.com/>  
+[Link to code](https://github.com/astro-paranoid/astroparanoid.com)  
 - Cracked into APIs to find information, consulted on styling
 - Node JS, CSS, HTML
 
