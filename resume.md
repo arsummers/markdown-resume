@@ -1,13 +1,13 @@
 # Aliya Summers
 
+### Software Developer
+Full stack Python developer with a background in sales, marketing and  engineering support, and customer service. 
+
 Seattle, Wa.  
 (512) 810-0426  
 <aliyasummers1@gmail.com>  
 <http://linkedin.com/in/aliya-summers>  
 <http://github.com/arsummers>  
-
-### Software Developer
-Full stack Python developer with a background in sales, marketing and  engineering support, and customer service. 
 
 ## Projects
 
