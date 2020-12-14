@@ -9,7 +9,13 @@ Seattle, Wa.
 <http://linkedin.com/in/aliya-summers>  
 <http://github.com/arsummers>  
 
+
+## Tools, Frameworks and Languages
+
+Python, JavaScript, HTML, CSS, Git, GitHub, Flask, Django, Docker, Django REST Framework, Pipenv, TDD, VSCode, PostgreSQL, React, NodeJS, Heroku, Azure
+
 ## Since Gradiuating Code School
+_____________________________________
 
 ### Work Experience
 
@@ -29,8 +35,18 @@ June 2019, April 2020 - present
 
 Ongoing repository for data structures and algorithms practice. Contains code from class and from personal code challenge work.
 
-[Link to code]<https://github.com/arsummers/python-data-structures-and-algorithms>
+[Link to code](https://github.com/arsummers/python-data-structures-and-algorithms)
 - Python
+
+#### Azure Tutorial with Python and Postgres
+
+I wanted to learn more about working with Azure, and learned a lot from walking through the tutorial. Learned more about what a project needs to simpler deployment, and can apply that to other projects.
+
+Source: 
+[Tutorial: Deploy a Django web app with PostgreSQL in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/tutorial-python-postgresql-app?tabs=bash%2Cclone)
+
+Successfully deployed site:
+<https://arsummerspsqltutorial2app.azurewebsites.net/>
 
 #### Jumper Ballads Website (Upwork Contract)- December 2020 (ongoing)
 
@@ -43,21 +59,21 @@ In a private repo.
 
 Currently converting this into a Django REST API, which will then get deployed and fed into a mobile-friendly front-end.
 
-[Link to code]<https://github.com/arsummers/kid-chart-backend>
+[Link to code](https://github.com/arsummers/kid-chart-backend)
 - Python, Django
 
 #### Expo CLI tutorial - July 2020
 
 Got curious about using React in mobile development, and found out about Expo. I'm excited to dive deeper into this.
 
-[Link to code]<https://github.com/arsummers/expo-cli-tutotial>
+[Link to code](https://github.com/arsummers/expo-cli-tutotial)
 - JavaScript, React
 
 #### Local Library (tutorial walkthrough) - January - April 2020
 
 Went through MDN's Local Library tutorial to build a website to help me keep track of the books I own.
 
-[Link to code]<https://github.com/arsummers/local-library-django-tutorial.git>
+[Link to code](https://github.com/arsummers/local-library-django-tutorial.git)
 - Python, Django, HTML, CSS
 
 #### Dish Challenge - December 2019
@@ -66,14 +82,14 @@ Django app built over the course of 3 days, as part of an interview. I was provi
 
 <https://as-dishes-challenge.herokuapp.com/>
 
-[Link to code]<https://github.com/arsummers/dish-challenge>
+[Link to code](https://github.com/arsummers/dish-challenge)
 - Python, Django, HTML, CSS, Heroku
 
 #### PyGame Tutorial - November/December 2019
 
 Followed and debugged a few tutorials to learn more about PyGame
 
-[Link to code]<https://github.com/arsummers/pygame-tutorial>
+[Link to code](https://github.com/arsummers/pygame-tutorial)
 - Python
 
 #### React Routing Practice - October 2019
@@ -81,10 +97,12 @@ Followed and debugged a few tutorials to learn more about PyGame
 Created out of a desire to learn how to do routing in React.
 Result: I have a lightweight skeleton React website I can use for future projects
 
-[Link to code]<https://github.com/arsummers/routing-practice>
+[Link to code](https://github.com/arsummers/routing-practice)
 - React
 
 ## Code School and Earlier
+
+_____________________________
 
 ### Class Group Projects
 
@@ -114,10 +132,6 @@ Asteroid tracking app with size comparisons
 [Link to code](https://github.com/astro-paranoid/astroparanoid.com)  
 - Cracked into APIs to find information, consulted on styling
 - Node JS, CSS, HTML
-
-## Tools, Frameworks and Languages
-
-Python, JavaScript, HTML, CSS, Git, GitHub, Flask, Django, Docker, Django REST Framework, Pipenv, TDD, VSCode, PostgreSQL, React, NodeJS
 
 ## Education
 
